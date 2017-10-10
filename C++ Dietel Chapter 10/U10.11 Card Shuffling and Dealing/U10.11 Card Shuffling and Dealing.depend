@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1492229825 source:c:\users\user\desktop\c++\u10.11 card shuffling and dealing\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Card.h"
+	"DeckOfCards.h"
+	"Card.cpp"
+	"DeckOfCards.cpp"
+
+1492229989 c:\users\user\desktop\c++\u10.11 card shuffling and dealing\card.h
+	<vector>
+	<string>
+
+1492230005 c:\users\user\desktop\c++\u10.11 card shuffling and dealing\deckofcards.h
+	"Card.h"
+	<vector>
+	<string>
+
+1492229936 c:\users\user\desktop\c++\u10.11 card shuffling and dealing\card.cpp
+	"Card.h"
+	<vector>
+	<string>
+
+1492230019 c:\users\user\desktop\c++\u10.11 card shuffling and dealing\deckofcards.cpp
+	"DeckOfCards.h"
+	"Card.h"
+	"Card.cpp"
+	<iostream>
+	<cstdlib>
+
+1492229825 source:c:\users\user\desktop\c++\u10.11 card shuffling and dealing\src\card.cpp
+	"Card.h"
+	<vector>
+	<string>
+
+1492229825 c:\users\user\desktop\c++\u10.11 card shuffling and dealing\include\card.h
+	<vector>
+	<string>
+
+1492229825 source:c:\users\user\desktop\c++\u10.11 card shuffling and dealing\src\deckofcards.cpp
+	"DeckOfCards.h"
+	"Card.h"
+	"Card.cpp"
+	<iostream>
+	<cstdlib>
+
+1492229825 c:\users\user\desktop\c++\u10.11 card shuffling and dealing\include\deckofcards.h
+	"Card.h"
+	<vector>
+	<string>
+
+1492229825 c:\users\user\desktop\c++\u10.11 card shuffling and dealing\src\card.cpp
+	"Card.h"
+	<vector>
+	<string>
+

@@ -1,0 +1,9 @@
+﻿  U 13.13 Shape Hierachy(Polymorphism).cpp
+c:\users\utente\documents\visual studio 2015\projects\c# projects\u 13.13 shape hierachy(polymorphism)\u 13.13 shape hierachy(polymorphism)\rectangle.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\utente\documents\visual studio 2015\projects\c# projects\u 13.13 shape hierachy(polymorphism)\u 13.13 shape hierachy(polymorphism)\triangle.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\utente\documents\visual studio 2015\projects\c# projects\u 13.13 shape hierachy(polymorphism)\u 13.13 shape hierachy(polymorphism)\kuboid.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\utente\documents\visual studio 2015\projects\c# projects\u 13.13 shape hierachy(polymorphism)\u 13.13 shape hierachy(polymorphism)\sphere.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\utente\documents\visual studio 2015\projects\c# projects\u 13.13 shape hierachy(polymorphism)\u 13.13 shape hierachy(polymorphism)\u 13.13 shape hierachy(polymorphism).cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\utente\documents\visual studio 2015\projects\c# projects\u 13.13 shape hierachy(polymorphism)\u 13.13 shape hierachy(polymorphism)\u 13.13 shape hierachy(polymorphism).cpp(41): warning C4018: '<': signed/unsigned mismatch
+  U 13.13 Shape Hierachy(Polymorphism).vcxproj -> C:\Users\Utente\Documents\Visual Studio 2015\Projects\C# Projects\U 13.13 Shape Hierachy(Polymorphism)\Debug\U 13.13 Shape Hierachy(Polymorphism).exe
+  U 13.13 Shape Hierachy(Polymorphism).vcxproj -> C:\Users\Utente\Documents\Visual Studio 2015\Projects\C# Projects\U 13.13 Shape Hierachy(Polymorphism)\Debug\U 13.13 Shape Hierachy(Polymorphism).pdb (Full PDB)
